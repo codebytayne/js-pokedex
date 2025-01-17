@@ -20,7 +20,7 @@
 
 - HTML
 - CSS
-- JavaScript Vanilla
+- JavaScript 
 - [PokéAPI](https://pokeapi.co/)
 
 ## 🗂️ Visão Geral das Classes
