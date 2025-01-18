@@ -6,7 +6,7 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 
 
-> Parte do projeto Bootcamp front-end do zero da Ri Happy da [DIO](https://web.dio.me/) 
+> Parte do projeto Bootcamp front-end do zero da Ri Happy na [DIO](https://web.dio.me/) 
 
 ## 👩‍💻 O projeto
 
