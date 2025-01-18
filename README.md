@@ -10,7 +10,7 @@
 
 ## 👩‍💻 O projeto
 
-🔗 https://codebytayne.github.io/js-pokedex/
+🔗 [Acesse o jogo aqui](https://codebytayne.github.io/js-pokedex/)
 
     O projeto consiste em simular uma pokedex de Pokémon. Todos os dados são chamados através da Pokeapi.
 
